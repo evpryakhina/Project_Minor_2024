@@ -1,0 +1,22 @@
+NC_009388.2;36321;36869;putative acetyltransferase;XP_003392184.1;PF00583;PF13508;;;
+NC_009392.2;412356;414317;putative histone deacetylase;XP_001463433.1;PF00850;;;;
+NC_009392.2;491138;493030;putative histone deacetylase;XP_001463453.1;PF00850;;;;
+NC_009397.2;49796;51667;putative MOZ/SAS family acetyltransferase;XP_001464044.1;PF01853;;;;
+NC_009398.2;38556;40133;putative histone acetyltransferase;XP_001464197.1;PF01853;PF11717;PF13508;PF00583;PF13894
+NC_009405.2;206779;208071;putative histone deacetylase;XP_001465379.1;PF00850;;;;
+NC_009408.2;500279;501889;putative histone deacetylase;XP_001465967.1;PF00850;;;;
+NC_009412.2;894690;896501;putative histone acetyltransferase;XP_001470270.1;PF01853;;;;
+NC_009420.2;480380;482515;putative N-acetyltransferase subunit Nat1;XP_001469471.1;PF07719;PF00515;PF13181;PF13431;PF13414
+NC_009420.2;2666819;2667658;putative acetyltransferase;XP_001469409.1;PF01853;PF00583;PF13508;PF12874;
+NC_009277.2;383110;384426;putative arginine N-methyltransferase, type III;XP_001463170.1;PF06325;PF10294;PF08241;PF13847;
+NC_009388.2;225866;227083;putative arginine N-methyltransferase;XP_003392201.1;PF13847;PF08241;PF06325;;
+NC_009390.2;374284;376128;methyltransferase-like protein;XP_001463064.1;PF06325;;;;
+NC_009396.2;537701;538732;arginine N-methyltransferase-like protein;XP_003392341.1;PF13847;PF06325;PF08241;PF05185;PF12847
+NC_009400.2;14604;15701;arginine N-methyltransferase, type I;XP_001464493.1;PF06325;PF08241;;;
+NC_009402.2;459941;462484;putative methyltransferase;XP_001464926.1;PF01189;;;;
+NC_009404.2;7805;8644;putative histone-lysine N-methyltransferase;XP_001465136.1;PF08123;PF13847;PF08241;;
+NC_009405.2;584041;587289;putative arginine N-methyltransferase, type II;XP_001465433.1;PF05185;;;;
+NC_009419.2;1999041;1999766;putative methyltransferase;XP_001469310.1;PF13847;PF08241;;;
+NC_009420.2;2635807;2636667;predicted bromodomain protein;XP_001469398.1;PF00439;;;;
+NC_009395.2;142506;144833;putative chromatin binding protein;XP_001463844.1;PF00415;;;;
+NC_009419.2;1407699;1411667;putative structural maintenance of chromosome (SMC) family protein;XP_001469160.1;PF13401;PF00004;;;
